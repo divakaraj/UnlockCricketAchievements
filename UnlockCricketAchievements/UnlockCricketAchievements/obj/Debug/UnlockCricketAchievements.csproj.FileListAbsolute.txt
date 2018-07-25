@@ -1,0 +1,6 @@
+c:\users\divakar.m\documents\visual studio 2015\Projects\UnlockCricketAchievements\UnlockCricketAchievements\bin\Debug\UnlockCricketAchievements.exe.config
+c:\users\divakar.m\documents\visual studio 2015\Projects\UnlockCricketAchievements\UnlockCricketAchievements\obj\Debug\UnlockCricketAchievements.csprojResolveAssemblyReference.cache
+c:\users\divakar.m\documents\visual studio 2015\Projects\UnlockCricketAchievements\UnlockCricketAchievements\bin\Debug\UnlockCricketAchievements.exe
+c:\users\divakar.m\documents\visual studio 2015\Projects\UnlockCricketAchievements\UnlockCricketAchievements\bin\Debug\UnlockCricketAchievements.pdb
+c:\users\divakar.m\documents\visual studio 2015\Projects\UnlockCricketAchievements\UnlockCricketAchievements\obj\Debug\UnlockCricketAchievements.exe
+c:\users\divakar.m\documents\visual studio 2015\Projects\UnlockCricketAchievements\UnlockCricketAchievements\obj\Debug\UnlockCricketAchievements.pdb
